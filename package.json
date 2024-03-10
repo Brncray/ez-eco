@@ -1,0 +1,23 @@
+{
+  "name": "ez-eco",
+  "version": "0.0.1",
+  "description": "An economy library meant for use with Discord Bots; Uses MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brncray/ez-eco.git"
+  },
+  "type": "module",
+  "author": "Brncray",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Brncray/ez-eco/issues"
+  },
+  "homepage": "https://github.com/Brncray/ez-eco#readme",
+  "dependencies": {
+    "mongoose": "^8.2.1"
+  }
+}
